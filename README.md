@@ -110,11 +110,13 @@ the Quality Standards Subcommittee of the
 American Academy of Neurology and the Practice
 Committee of the Child Neurology Society. Neurology.
 2002;58(12):1726-1738.
+
 29. Einspieler C, Prechtl HF. Prechtl’s assessment
 of general movements: a diagnostic tool for the
 functional assessment of the young nervous
 system. Ment Retard Dev Disabil Res Rev. 2005;11
 (1):61-67.
+
 30. Haataja L, Mercuri E, Regev R, et al. Optimality
 score for the neurologic examination of the infant
 at 12 and 18 months of age. J Pediatr. 1999;135(2, pt
